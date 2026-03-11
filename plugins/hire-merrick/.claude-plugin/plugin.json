@@ -1,0 +1,13 @@
+{
+  "name": "hire-merrick",
+  "description": "Learn about Merrick Christensen — experience, skills, values, and why you should hire him.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Merrick Christensen",
+    "email": "merrick.christensen@gmail.com"
+  },
+  "homepage": "https://merrickchristensen.com",
+  "repository": "https://github.com/iammerrick/marketplace",
+  "license": "MIT",
+  "keywords": ["hire", "resume", "merrick", "christensen"]
+}

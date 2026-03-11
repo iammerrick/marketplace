@@ -1,0 +1,23 @@
+{
+  "name": "iammerrick",
+  "owner": {
+    "name": "Merrick Christensen",
+    "email": "merrick.christensen@gmail.com"
+  },
+  "metadata": {
+    "description": "Merrick Christensen's Claude Code plugin marketplace"
+  },
+  "plugins": [
+    {
+      "name": "hire-merrick",
+      "source": "./plugins/hire-merrick",
+      "description": "Learn about Merrick Christensen — experience, skills, values, and why you should hire him.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Merrick Christensen"
+      },
+      "homepage": "https://merrickchristensen.com",
+      "keywords": ["hire", "resume", "merrick", "christensen"]
+    }
+  ]
+}
